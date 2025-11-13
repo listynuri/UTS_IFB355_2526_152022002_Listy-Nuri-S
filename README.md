@@ -11,19 +11,25 @@ Listy Verse App merupakan aplikasi berbasis Flutter yang dirancang untuk memberi
   ![Image](https://github.com/user-attachments/assets/56f57abe-4fa4-467e-bf14-c1c184ccbb50)
   
 - **Halaman Cuaca :** Pada halaman menampilkan keadaan cuaca beberapa kota yang memuat nama kota, tanggal, hari, suhu cuaca, precip, humidity, dan wind.
+  
   ![Image](https://github.com/user-attachments/assets/70af5228-352c-40b5-8ca5-f9ca248f4ab7)
 
 - **Halaman Detail Cuaca :** Pada halaman ini menampilkan detail dari cuaca satu kota ketika di klik, sehingga bisa terlihat cuaca di jam berapa akan hujan atau tidak hujan dan info lainnya.
+  
   ![Image](https://github.com/user-attachments/assets/84e95992-d4cd-41c1-9fc6-215009592967)
   
 - **Halaman Kontak :** Pada halaman menampilkan siapa saja kontak yang di simpan dan bisa search kontak yang akan di hubungi, dan bisa mengurutkan nama kontak yang ada.
+  
   ![Image](https://github.com/user-attachments/assets/3ec217ce-de70-4e56-8148-7f0512134e76)
   
 - **Halaman Berita :** Pada halaman ini menampilkan berita terkini yang ada lalu bisa mensearch berita yang ingin di cari sesuai dengan kemamuan.
+  
   ![Image](https://github.com/user-attachments/assets/47d8db2f-89cb-475e-bb2a-42b07b6a0726)
+  
   ![Image](https://github.com/user-attachments/assets/03d4ae90-981b-4817-a83f-77d60a9aa327)
   
 - **Halaman Kalkulator :** Pada halaman ini menampilkan kalkulator yang bisa melakukan perhitungan matematika.
+  
   ![Image](https://github.com/user-attachments/assets/e05c16a2-e292-431c-9715-cacdb54de30e)
 
 
