@@ -7,6 +7,7 @@ Listy Verse App merupakan aplikasi berbasis Flutter yang dirancang untuk memberi
   ![Image](https://github.com/user-attachments/assets/3cbf514b-5f07-4366-8409-40a111760e0b)
 
 - **Halaman Biodata :** Pada halaman ini menampilkan nama, nim, program studi, jenis kelamin, tanggal lahir, email, no hp, dan juga alamat.
+  
   ![Image](https://github.com/user-attachments/assets/56f57abe-4fa4-467e-bf14-c1c184ccbb50)
   
 - **Halaman Cuaca :** Pada halaman menampilkan keadaan cuaca beberapa kota yang memuat nama kota, tanggal, hari, suhu cuaca, precip, humidity, dan wind.
