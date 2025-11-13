@@ -31,6 +31,10 @@ Listy Verse App merupakan aplikasi berbasis Flutter yang dirancang untuk memberi
 - Dart Programming Language
 - VS Code
 
+# Cara Menjalankan Aplikasi
+Clone repositori di bawah ini:
+https://github.com/listynuri/UTS_IFB355_2526_152022002_Listy-Nuri-S.git
+
 # UTS_IFB355_2526_152022002_Listy-Nuri-S
 Listy Verse App
 
