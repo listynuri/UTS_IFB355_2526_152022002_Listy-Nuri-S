@@ -3,9 +3,13 @@
 Listy Verse App merupakan aplikasi berbasis Flutter yang dirancang untuk memberikan berbagai fungsi praktis dalam satu platform. Aplikasi ini memiliki beberapa fitur utama, antara lain Dashboard sebagai tampilan utama untuk navigasi, Biodata untuk menampilkan informasi pengguna, Cuaca untuk memantau kondisi dan suhu terkini, Kalkulator untuk melakukan perhitungan sederhana, Berita untuk mengakses informasi terbaru, serta Kontak sebagai sarana menyimpan dan menampilkan daftar kontak pengguna.
 
 ## Fitur Utama Yang Ada
-- **Halaman Dashboard :** Menampilkan quick kontak, cuaca terkini, berita terkini,quick menu, dan bisa search untuk pencarian yang di inginkan user.
+- **Halaman Splash :** Muncul selama 5 detik ketika aplikasi di buka menampilkan nama apk, foto, nama, dan nim
   
   ![Image](https://github.com/user-attachments/assets/3cbf514b-5f07-4366-8409-40a111760e0b)
+
+- **Halaman Dashboard :** Menampilkan quick kontak, cuaca terkini, berita terkini,quick menu, dan bisa search untuk pencarian yang di inginkan user.
+  
+  ![Image](https://github.com/user-attachments/assets/6a8ceb1a-04a9-4c57-9060-8f41feef0656)
 
 - **Halaman Biodata :** Pada halaman ini menampilkan nama, nim, program studi, jenis kelamin, tanggal lahir, email, no hp, dan juga alamat.
   
