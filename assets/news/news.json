@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "title": "Kucing Kantor Jadi CTO, Produktivitas Naik 200%",
+    "summary": "Tim mengaku lebih fokus sejak rapat hanya berisi 'meong'.",
+    "category": "Uplifting",
+    "source": "Campus Times",
+    "date": "2025-11-01",
+    "image": "assets/news/3.png",
+    "isPopular": true,
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "title": "Mahasiswa Temukan Cara Mengingat Materi Hanya Dengan Ngopi",
+    "summary": "Hasil masih diperdebatkan, tapi kafe terdekat sudah kehabisan stok.",
+    "category": "Campus",
+    "source": "Edu Daily",
+    "date": "2025-11-03",
+    "image": "assets/news/4.png",
+    "isPopular": true,
+    "isFeatured": false
+  },
+  {
+    "id": 3,
+    "title": "AI Bisa Bedakan Bakso Asli vs Bakso Pikiran",
+    "summary": "Model dilatih menggunakan data real-life dan khayalan jam 3 pagi.",
+    "category": "Tech",
+    "source": "Techno.id",
+    "date": "2025-10-28",
+    "image": "assets/news/5.png",
+    "isPopular": false,
+    "isFeatured": false
+  },
+  {
+    "id": 4,
+    "title": "Dosen Mengajar Dengan Meme, Kelas Penuh Sampai Lesehan",
+    "summary": "Kurva normal diganti dengan kurva 'hehe'.",
+    "category": "Campus",
+    "source": "Edu Daily",
+    "date": "2025-10-30",
+    "image": "assets/news/6.png",
+    "isPopular": true,
+    "isFeatured": false
+  },
+  {
+    "id": 5,
+    "title": "Startup Bikin Payung Anti-Angin: Bisa Balik, Tapi Balik Lagi",
+    "summary": "MVP dianggap sukses karena tidak terbang.",
+    "category": "World",
+    "source": "Global Post",
+    "date": "2025-11-02",
+    "image": "assets/news/7.png",
+    "isPopular": false,
+    "isFeatured": false
+  },
+  {
+    "id": 6,
+    "title": "Peneliti Kembangkan Aplikasi Pengingat Minum Air Untuk Tanaman",
+    "summary": "Tanaman tanpa notifikasi dianggap 'introvert'.",
+    "category": "Tech",
+    "source": "Lab Notes",
+    "date": "2025-10-27",
+    "image": "assets/news/8.png",
+    "isPopular": true,
+    "isFeatured": false
+  },
+  {
+    "id": 7,
+    "title": "Kampus Uji Coba Lift Yang Berkata 'Semangat!'",
+    "summary": "Mahasiswa merasa diangkat dua kali: fisik dan mental.",
+    "category": "Uplifting",
+    "source": "Campus Times",
+    "date": "2025-11-05",
+    "image": "assets/news/9.png",
+    "isPopular": false,
+    "isFeatured": false
+  },
+  {
+    "id": 8,
+    "title": "Komunitas Lari Malam Hanya Sampai Warung Sate",
+    "summary": "Olahraga tetap jalan, sate lebih jalan.",
+    "category": "World",
+    "source": "City Beat",
+    "date": "2025-11-06",
+    "image": "assets/news/10.png",
+    "isPopular": true,
+    "isFeatured": false
+  },
+  {
+    "id": 9,
+    "title": "Keyboard Dengan Tombol 'Fix Bug' Meluncur, Isi Sebenarnya Ctrl+Z",
+    "summary": "Hype tinggi, bug juga tinggi.",
+    "category": "Tech",
+    "source": "Techno.id",
+    "date": "2025-10-25",
+    "image": "assets/news/11.png",
+    "isPopular": false,
+    "isFeatured": false
+  },
+  {
+    "id": 10,
+    "title": "Kantin Kampus Terapkan Sistem 'Bayar Dengan Tawa'",
+    "summary": "Diskon maksimal untuk yang paling ngakak.",
+    "category": "Campus",
+    "source": "Edu Daily",
+    "date": "2025-11-07",
+    "image": "assets/news/12.png",
+    "isPopular": true,
+    "isFeatured": false
+  },
+  {
+    "id": 11,
+    "title": "Penjualan Kalender 2026 Laris Karena 2025 Terasa Cepat",
+    "summary": "Solusi time management versi dagang.",
+    "category": "World",
+    "source": "Global Post",
+    "date": "2025-11-08",
+    "image": "assets/news/13.png",
+    "isPopular": false,
+    "isFeatured": false
+  },
+  {
+    "id": 12,
+    "title": "Robot Pembersih Kos Menolak Kerja Tanpa Playlist",
+    "summary": "Algoritma hanya menerima lagu yang 'bisa disapu'.",
+    "category": "Tech",
+    "source": "Lab Notes",
+    "date": "2025-11-01",
+    "image": "assets/news/14.png",
+    "isPopular": true,
+    "isFeatured": false
+  },
+  {
+    "id": 13,
+    "title": "Kompetisi Tidur Siang Antar-Fakultas Resmi Digelar",
+    "summary": "Fakultas Teknik juara karena ketiduran beneran.",
+    "category": "Campus",
+    "source": "Campus Times",
+    "date": "2025-10-29",
+    "image": "assets/news/15.png",
+    "isPopular": false,
+    "isFeatured": false
+  },
+  {
+    "id": 14,
+    "title": "Warga Tanam Cabe di Keyboard Saat Nugas—Tumbuhnya Cepat",
+    "summary": "Rahasianya: panas deadline.",
+    "category": "Uplifting",
+    "source": "City Beat",
+    "date": "2025-10-31",
+    "image": "assets/news/16.png",
+    "isPopular": true,
+    "isFeatured": false
+  },
+  {
+    "id": 15,
+    "title": "Aplikasi Cuaca Baru: Ramalan + Saran Outfit Kuliah",
+    "summary": "Akhirnya hoodie bukan satu-satunya pilihan.",
+    "category": "Tech",
+    "source": "Techno.id",
+    "date": "2025-11-04",
+    "image": "assets/news/17.png",
+    "isPopular": true,
+    "isFeatured": false
+  }
+]
